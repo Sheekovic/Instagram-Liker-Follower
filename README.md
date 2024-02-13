@@ -55,4 +55,3 @@ This script is for educational and testing purposes only. Use it responsibly and
 ## License
 
 [MIT License](LICENSE)
-```
