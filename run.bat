@@ -1,3 +1,3 @@
 @echo off
-python "E:\Projects\TOTY Vote\main.py"
+python "main.py"
 pause
