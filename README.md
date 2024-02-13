@@ -1,4 +1,4 @@
-Sure, here's a basic `README.md` file for your script:
+
 
 ```markdown
 # Instagram Account Creation Automation Script
@@ -44,4 +44,3 @@ python main.py
 This script is provided for educational and informational purposes only. The author is not responsible for any misuse or violation of terms of service resulting from the use of this script.
 ```
 
-Feel free to modify and expand upon this `README.md` file as needed to provide more detailed instructions or information about your script.
