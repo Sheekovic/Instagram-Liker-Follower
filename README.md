@@ -25,7 +25,7 @@ This script automates the process of creating Instagram accounts for various pur
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/instagram-account-creator.git
+   git clone https://github.com/Sheekovic/Instagram-Liker-Follower.git
    ```
 
 2. Install dependencies:
@@ -44,7 +44,7 @@ This script automates the process of creating Instagram accounts for various pur
 
 ## Configuration
 
-- Modify `domains` in `main.py` to include your preferred email domains for temporary email generation.
+- you can modify `domains` in `main.py` to include your preferred email domains for temporary email generation.
 - Add more user agents to the `user_agents` list in `main.py` for user agent rotation.
 - Adjust timeouts and delays in the script as needed.
 
